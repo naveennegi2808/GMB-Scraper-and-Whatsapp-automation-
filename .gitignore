@@ -1,0 +1,27 @@
+# Environment & Credentials
+.env
+credentials.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Playwright / Scraper Output
+output/
+error_logs/
+profiles/
+local_storage.json
+.pw-session/
+
+# OS specific
+.DS_Store
+.idea/
+.vscode/

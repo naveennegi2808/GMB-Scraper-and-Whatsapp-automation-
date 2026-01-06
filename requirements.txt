@@ -1,0 +1,10 @@
+botasaurus==4.*
+gspread
+google-auth
+python-dotenv
+supabase==2.*
+flask
+pandas
+pywhatkit
+playwright
+tqdm
