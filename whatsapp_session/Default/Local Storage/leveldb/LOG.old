@@ -1,0 +1,24 @@
+2026/01/06-13:54:04.680 59624e Reusing MANIFEST /Users/naveennegi/Downloads/scraping-main/whatsapp_session/Default/Local Storage/leveldb/MANIFEST-000001
+2026/01/06-13:54:04.682 59624e Recovering log #16
+2026/01/06-13:54:04.682 59624e Reusing old log /Users/naveennegi/Downloads/scraping-main/whatsapp_session/Default/Local Storage/leveldb/000016.log 
+2026/01/06-13:55:04.687 596251 Level-0 table #21: started
+2026/01/06-13:55:04.692 596251 Level-0 table #21: 14307 bytes OK
+2026/01/06-13:55:04.694 596251 Delete type=0 #16
+2026/01/06-14:04:06.768 596251 Level-0 table #23: started
+2026/01/06-14:04:06.772 596251 Level-0 table #23: 16985 bytes OK
+2026/01/06-14:04:06.774 596251 Delete type=0 #20
+2026/01/06-14:13:06.764 596251 Level-0 table #25: started
+2026/01/06-14:13:06.769 596251 Level-0 table #25: 16919 bytes OK
+2026/01/06-14:13:06.771 596251 Delete type=0 #22
+2026/01/06-14:20:14.525 596251 Level-0 table #27: started
+2026/01/06-14:20:14.550 596251 Level-0 table #27: 18753 bytes OK
+2026/01/06-14:20:14.559 596251 Delete type=0 #24
+2026/01/06-14:20:14.564 596251 Compacting 4@0 + 1@1 files
+2026/01/06-14:20:14.590 596251 Generated table #28@0: 873 keys, 41132 bytes
+2026/01/06-14:20:14.590 596251 Compacted 4@0 + 1@1 files => 41132 bytes
+2026/01/06-14:20:14.593 596251 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/01/06-14:20:14.595 596251 Delete type=2 #21
+2026/01/06-14:20:14.595 596251 Delete type=2 #23
+2026/01/06-14:20:14.595 596251 Delete type=2 #27
+2026/01/06-14:20:14.595 596251 Delete type=2 #25
+2026/01/06-14:20:14.595 596251 Delete type=2 #18

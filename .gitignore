@@ -25,3 +25,5 @@ local_storage.json
 .DS_Store
 .idea/
 .vscode/
+
+whatsapp_session/
